@@ -1,0 +1,2 @@
+# MathforData
+Notes for class
