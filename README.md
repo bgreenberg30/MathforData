@@ -1,7 +1,7 @@
 # MathforData
 Notes for class
 
-<img src="(https://s7d2.scene7.com/is/image/TWCNews/ap_yankees_angels62921_03112022?wid=1250&hei=703&$wide-bg$)">
+<img src="(https://s7d2.scene7.com/is/image/TWCNews/ap_yankees_angels62921_03112022?wid=1250&hei=703&$wide-bg$](https://muralsyourway.vtexassets.com/arquivos/ids/233131-825-auto?width=825&height=auto&aspect=true)">
 
 
 ## Notes for class
