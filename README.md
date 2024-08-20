@@ -1,6 +1,9 @@
 # MathforData
 Notes for class
 
+<img src="https://images.app.goo.gl/D7ZZ29bmE7VuTToYA">
+
+
 ## Notes for class
 
 # H1
