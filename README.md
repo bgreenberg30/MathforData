@@ -1,6 +1,8 @@
 # MathforData
 Notes for class
 
+[website](https://bgreenberg30.github.io/MathforData/)
+
 <img src="https://muralsyourway.vtexassets.com/arquivos/ids/233131-825-auto?width=825&height=auto&aspect=true">
 
 
